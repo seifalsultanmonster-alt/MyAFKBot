@@ -1,0 +1,14 @@
+{
+  "name": "aternos-safe-status-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local Mineflayer status bot with safe configuration and dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.39.0",
+    "express": "^5.1.0"
+  }
+}

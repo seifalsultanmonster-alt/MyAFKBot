@@ -1,0 +1,17 @@
+{
+  "server": {
+    "host": "nixhater.aternos.me",
+    "port": 31057,
+    "version": false
+  },
+  "bot": {
+    "username": "MyAFKBot"
+  },
+  "reconnect": {
+    "minDelayMs": 30000,
+    "maxDelayMs": 300000
+  },
+  "dashboard": {
+    "port": 3000
+  }
+}
