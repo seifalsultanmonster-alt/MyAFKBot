@@ -1,10 +1,16 @@
 {
-  "name": "minecraft-afk-bot-cloud",
+  "name": "my-afk-bot",
   "version": "1.0.0",
   "private": true,
-  "description": "Mineflayer AFK client with HTTP health endpoint",
+  "description": "Mineflayer AFK bot with HTTP health endpoint and status page",
   "main": "bot.js",
-  "scripts": { "start": "node bot.js" },
-  "engines": { "node": ">=20" },
-  "dependencies": { "mineflayer": "^4.39.0" }
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "mineflayer": "^4.39.0"
+  }
 }

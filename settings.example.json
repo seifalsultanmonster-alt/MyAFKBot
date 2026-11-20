@@ -1,0 +1,17 @@
+{
+  "server": {
+    "host": "your-java-server-address",
+    "port": 25565,
+    "version": false
+  },
+  "bot": {
+    "username": "AFK_Bot"
+  },
+  "reconnect": {
+    "minDelayMs": 10000,
+    "maxDelayMs": 120000
+  },
+  "dashboard": {
+    "port": 3000
+  }
+}
